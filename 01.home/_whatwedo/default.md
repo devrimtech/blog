@@ -1,8 +1,4 @@
 ---
-vimeo:
-  src: https://player.vimeo.com/video/109354891
-  width: 570
-  height: 321
 class: home-content
 buttons:
     - text: Get In Touch
