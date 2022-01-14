@@ -10,3 +10,4 @@ taxonomy:
 ---f sf asfas
 
 This is an example blog post with a lot of changes. with more changes here.
+Here is Kai's changes, please take a look
