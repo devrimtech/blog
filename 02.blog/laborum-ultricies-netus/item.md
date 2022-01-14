@@ -7,6 +7,6 @@ taxonomy:
     category: Featured
     tag: [fifth, sixth]
     featured: true
----
+---f sf asfas
 
 This is an example blog post with a lot of changes. with more changes here.
