@@ -9,4 +9,4 @@ taxonomy:
     featured: true
 ---
 
-This is an example blog post with a lot of changes.
+This is an example blog post with a lot of changes. with more changes here.
